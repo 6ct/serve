@@ -1,6 +1,7 @@
 {
 	"client": {
 		"url": "https://github.com/6ct/clientpp/releases",
-		"version": 0.17
+		"version": 0.17,
+		"semver": "0.18.0"
 	}
 }
